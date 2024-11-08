@@ -1,0 +1,87 @@
+[
+    {
+      "playerId": 1,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/n3Zt5CL/sakib.webp",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm orthodox",
+      "price": 1000
+    },
+    {
+      "playerId": 2,
+      "name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/L1q3YXy/tamim.webp",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "None",
+      "price": 15000
+    },
+    {
+      "playerId": 3,
+      "name": "Mashrafe Mortaza",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/FWzyLMY/mash.webp",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm-fast",
+      "price": 11000
+    },
+    {
+      "playerId": 4,
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://i.ibb.co.com/gg6F4zk/virat.webp",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "price": 25000
+    },
+    
+    {
+      "playerId": 5,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/8YZFJ51/babar.webp",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "price": 28000
+    },
+    
+    {
+      "playerId": 6,
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/8Nnkh3F/warner.webp",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "None",
+      "price": 25000
+    },
+    
+    {
+      "playerId": 7,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/MSSQrg7/kane.webp",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm off-break",
+      "price": 25000
+    },
+    
+      {
+        "playerId": 8,
+        "name": "Shaheen Afridi",
+        "country": "Pakistan",
+        "image": "https://i.ibb.co.com/TP5bKcx/saheen.webp",
+        "role": "Bowler",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Left-arm fast",
+        "price": 14000
+      }
+  ]
+  
