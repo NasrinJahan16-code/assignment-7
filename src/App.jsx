@@ -37,7 +37,7 @@ function App() {
 
   // credit claim function
   const handleClaimCredit = () => {
-    const newCoins = coins + 9000000;
+    const newCoins = coins +200000;
     setCoins(newCoins);
     toast.success('Credit Added to your Account');
   };
