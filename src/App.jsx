@@ -75,9 +75,9 @@ function App() {
   return (
     <div>
       <div className="max-w-screen-xl mx-auto">
-        {/* Navbar */}
+        
         <Navbar coins={coins}></Navbar>
-        {/* Banner */}
+        
         <Banner handleClaimCredit={handleClaimCredit}></Banner>
         {/* Available Players */}
         <AvailablePlayers
